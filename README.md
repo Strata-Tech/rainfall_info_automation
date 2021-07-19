@@ -20,7 +20,7 @@ There are 60 weather stations in Singapore which measures rainfall, and utilizin
 To aid insurance companies monitor whether claims are valid, or to do dynamic pricing, we will want to know whether is it raining now (0mm - no rainfall, >0mm - rainfall) and how heavy the rainfall is at various locations.
 
 How high will the surge pricing be (the heavier the rainfall, the higher the surge pricing)
-In this project I automated the rainfall feeds which can further aid insurance companies to automate their pricing strategy?
+In this project I automated the rainfall feeds which can further aid insurance companies to automate their pricing strategy.
 
 ## Technologies used
 Requests
