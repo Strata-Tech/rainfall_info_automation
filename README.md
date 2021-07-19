@@ -16,7 +16,7 @@ Source:Data.gov.sg
 To see the number of catchment areas pls refer to : https://data.gov.sg/dataset/realtime-weather-readings/resource/8bd37e06-cdd7-4ca4-9ad8-5754eb70a33d/view/b91b76be-21be-4cd4-b815-e2cc277475d7
 
 ## API Used
-[Realtime Weather Readings across Singapore API](https://api.data.gov.sg/v1/environment/rainfall) - No API Key needed, but see [Singapore Open Data License](https://data.gov.sg/open-data-licence) which has further information on its usage.
+[Rainfall across Singapore API](https://data.gov.sg/dataset/realtime-weather-readings?resource_id=8bd37e06-cdd7-4ca4-9ad8-5754eb70a33d) - No API Key needed, but see [Singapore Open Data License](https://data.gov.sg/open-data-licence) which has further information on its usage.
 
 To aid insurance companies monitor whether claims are valid, or to do dynamic pricing, we will want to know whether is it raining now (0mm - no rainfall, >0mm - rainfall) and how heavy the rainfall is at various locations.
 
