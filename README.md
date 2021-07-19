@@ -4,7 +4,16 @@
 ## Background
 Insurance company offer protection against surge pricing on ride hailing companies (i.e Grab, Gojek,Ryde). Example of such insurance coverage provided is Droplets. https://www.droplet.sg/#/ . Such a plan protects commuters against unpredictable surge pricing on ride-hailing platforms when it rains.
 
-Surge pricing, the practice of hiking up ride-hailing fares in times of high demand, usually kicks in when it rains.Surge pricing occurs when the demand for drivers suddenly increases like during bad weather or due to rush hour.
+Surge pricing, the practice of hiking up ride-hailing fares in times of high demand, usually kicks in when it rains.Surge pricing occurs when the demand for drivers suddenly increases like during bad weather or due to rush hour. To ascertain the amount of rainfall we can reference the amount of rainfall at a given time.
+
+There are 60 weather stations in Singapore which measures rainfall, and utilizing data from MSS (Meteorological Service Singapore) and calling a public API we can get real time feeds of rainfall at various locations
+
+
+![Screenshot 2021-07-19 at 1 45 42 PM](https://user-images.githubusercontent.com/77420780/126109182-9d826bd6-7c71-43ec-b5c6-d6b02b685043.png)
+
+Source:Data.gov.sg
+
+To see the number of catchment areas pls refer to : https://data.gov.sg/dataset/realtime-weather-readings/resource/8bd37e06-cdd7-4ca4-9ad8-5754eb70a33d/view/b91b76be-21be-4cd4-b815-e2cc277475d7
 
 There are 60 weather stations in Singapore which measures rainfall, and utilizing data from MSS (Meteorological Service Singapore) and calling a public API we can get real time feeds of rainfall at various locations
 
