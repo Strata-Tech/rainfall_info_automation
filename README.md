@@ -27,7 +27,7 @@ In this project I automated the rainfall feeds which can further aid insurance c
 Requests
 
 ## Data Preprocessing 
-From the NEA API ,I cleansed the JSON file to get the stations and rainfall feed when it rains in a key-value dictionary pair.
+From the calling the API ,I cleansed the JSON file to get the various stations in Singapore and rainfall feed when it rains in a key-value dictionary pair.
 
 ## Desired Outcome
 From the app , we are able to get automated info on the amount of rainfall at a particular area. With this info insurance companies can validate the claims of their clients as well as set dynamic pricing for such insurance plans.
