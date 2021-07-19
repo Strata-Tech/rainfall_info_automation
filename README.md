@@ -11,7 +11,7 @@ There are 60 weather stations in Singapore which measures rainfall, and utilizin
 
 ![Screenshot 2021-07-19 at 1 45 42 PM](https://user-images.githubusercontent.com/77420780/126109182-9d826bd6-7c71-43ec-b5c6-d6b02b685043.png)
 
-Source:Data.gov.sg
+Source:data.gov.sg
 
 To see the number of catchment areas pls refer to : https://data.gov.sg/dataset/realtime-weather-readings/resource/8bd37e06-cdd7-4ca4-9ad8-5754eb70a33d/view/b91b76be-21be-4cd4-b815-e2cc277475d7
 
